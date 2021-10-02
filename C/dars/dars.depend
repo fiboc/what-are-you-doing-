@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629185212 source:/home/azimjon/Program/C/dars/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
